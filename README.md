@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📰 News App - ReactJS
 
 A modern web application for real-time news aggregation and visualization. This project fetches news data from external APIs and presents it in a clean, responsive user interface built with React.
